@@ -50,3 +50,48 @@ Tại phần đăng nhập của SQL Server Authentication, username mặc đị
 
 7. Create and design table
 
+![Table](images/17.png)
+
+8. Import data from Excel file
+
+![Import](images/18.png)
+
+![Import](images/19.png)
+
+9. Kiểm tra số dòng đã import vào
+
+![Check Row](images/20.png)
+
+10. Insert 1 row
+
+![Insert](images/21.png)
+
+11. Update trường noisinh thành 'Sao Hoả' cho những dòng có noisinh và diachi đều là NULL.
+
+![Sao Hoa](images/22.png)
+
+12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả', keyword gợi ý: sử dụng 1 câu lệnh: SELECT + INTO
+
+![Create Sao Hoa](images/23.png)
+
+13. Gõ lệnh xoá (delete) trong bảng SaoHoa những sinh viên cùng họ với em, vd em họ nguyễn thì xoá những sv họ nguyễn.
+
+![Delete](images/24.png)
+
+14. Sử dụng giao diện đồ hoạ của ssms: Xuất toàn bộ kết quả của các bước 6,7,8,9,10,11,12,13 ra file dulieu.sql , keyword gợi ý: sử dụng tính năng GEN SCRIPT struct+data cho database
+
+![Export](images/25.png)
+
+15. Xoá csdl đã tạo, sau khi xoá thành công, kiểm tra tại path
+
+![DeleteDB](images/26.png)
+
+![DeleteDB](images/27.png)
+
+![DeleteDB](images/28.png)
+
+16. Mở file Remu_Dulieu.sql, chạy toàn bộ các lệnh này
+
+![Run and refresh DB](images/29.png)
+
+![Run and refresh DB](images/30.png)
