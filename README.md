@@ -70,7 +70,7 @@ Tại phần đăng nhập của SQL Server Authentication, username mặc đị
 
 ![Sao Hoa](images/22.png)
 
-12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả', keyword gợi ý: sử dụng 1 câu lệnh: SELECT + INTO
+12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
 
 ![Create Sao Hoa](images/23.png)
 
@@ -78,7 +78,7 @@ Tại phần đăng nhập của SQL Server Authentication, username mặc đị
 
 ![Delete](images/24.png)
 
-14. Sử dụng giao diện đồ hoạ của ssms: Xuất toàn bộ kết quả của các bước 6,7,8,9,10,11,12,13 ra file dulieu.sql , keyword gợi ý: sử dụng tính năng GEN SCRIPT struct+data cho database
+14. Sử dụng giao diện đồ hoạ của ssms: Xuất toàn bộ kết quả của các bước 6,7,8,9,10,11,12,13 ra file dulieu.sql
 
 ![Export](images/25.png)
 
