@@ -2,7 +2,7 @@
 
 Nộp bài tập SQL đầu tiên | Sinh viên: Chu Trọng Tấn - Mã số sinh viên: K235480106063
 
-1. Tải và cài đặt SQL Server 2025 Developer (Đã tải về và cài đặt phiên bản Enterprise Developer từ trước đó)
+1. Tải và cài đặt SQL Server 2025 Developer (Đã tải về và cài đặt phiên bản Enterprise Developer từ trước khi có bài tập về nhà này)
 
 ![Website Download](images/1.png)
 
@@ -26,6 +26,20 @@ Nộp bài tập SQL đầu tiên | Sinh viên: Chu Trọng Tấn - Mã số sin
 
 ![Check Service](images/9.png)
 
-4. Tải và cài đặt SQL Server Management Studio (Đã tải về và cài đặt từ trước đó)
+4. Tải và cài đặt SQL Server Management Studio (Đã tải về và cài đặt từ trước khi có bài tập về nhà này)
 
 ![SSMS](images/10.png)
+
+5. Chạy phần mềm SSMS và đăng nhập bằng 2 cách (Windows Authentication và SQL Server Authentication)
+
+![Windows Authentication](images/11.png)
+
+![Windows Authentication](images/12.png)
+
+Tại phần đăng nhập của SQL Server Authentication, username mặc định là sa và password đặt là 05012005
+
+![SQL Server Authentication](images/13.png)
+
+![SQL Server Authentication](images/14.png)
+
+6.
