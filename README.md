@@ -42,4 +42,11 @@ Tại phần đăng nhập của SQL Server Authentication, username mặc đị
 
 ![SQL Server Authentication](images/14.png)
 
-6.
+6. Create database
+
+![Create database](images/15.png)
+
+![Create database](images/16.png)
+
+7. Create and design table
+
